@@ -6,7 +6,7 @@ This repository contains deep learning projects and practice exercises implement
 - Implementations of various deep learning models  
 - Hands-on projects and experiments  
 - Comparisons between TensorFlow and PyTorch  
-- Optimization techniques and best practices  
+- Optimization techniques and best practices   
 
  
 ##  Getting Started  
