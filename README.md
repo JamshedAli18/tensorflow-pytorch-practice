@@ -9,7 +9,7 @@ This repository contains deep learning projects and practice exercises implement
 - Optimization techniques and best practices   
 
  
-##  Getting Started  
+##  Getting Started   
 
 ### Clone the Repository  
 ```bash
