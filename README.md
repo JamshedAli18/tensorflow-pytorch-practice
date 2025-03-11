@@ -13,6 +13,6 @@ This repository contains deep learning projects and practice exercises implement
 
 ### Clone the Repository  
 ```bash
-git clone https://github.com/your-username/tensorflow-pytorch-practice.git
+git clone https://github.com/jamshedali18/tensorflow-pytorch-practice.git
 cd tensorflow-pytorch-practice
 
